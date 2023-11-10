@@ -61,6 +61,11 @@ Jetbrainsの拡張機能が使用できる。以下の文書作成に使う拡�
 
 - [textlint](https://plugins.jetbrains.com/plugin/22806-textlint)
 - [AsciiDoc](https://plugins.jetbrains.com/plugin/7391-asciidoc)
+- [Drawio](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration)
+
+drawioで記載すると以下のイメージになる。
+
+![](./testfile.drawio.png)
 
 ## 感想
 
